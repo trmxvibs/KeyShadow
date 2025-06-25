@@ -3,8 +3,7 @@
 KeyShadow: An Educational Cross-Platform Keylogger for Ethical Use
 
 Authors:
-- Senior: GitHub Copilot
-- Junior: trmxvibs
+trmxvibs
 """
 
 import argparse
